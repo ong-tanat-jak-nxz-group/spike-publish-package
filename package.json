@@ -1,0 +1,21 @@
+{
+  "name": "spike-shared-package",
+  "version": "1.0.0",
+  "description": "spike package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ong-tanat-jak-nxz-group/spike-publish-package"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "winston": "^3.15.0"
+  }
+}

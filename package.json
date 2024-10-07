@@ -1,5 +1,5 @@
 {
-  "name": "spike-shared-package",
+  "name": "@ong-tanat-jak-nxz-group/spike-shared-package",
   "version": "1.0.0",
   "description": "spike package",
   "main": "src/index.js",
@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ong-tanat-jak-nxz-group/spike-publish-package"
+    "url": "git+https://github.com/ong-tanat-jak-nxz-group/spike-publish-package.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "winston": "^3.15.0"
